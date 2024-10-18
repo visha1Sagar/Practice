@@ -1,0 +1,9 @@
+pandas
+opencv-python
+torch
+tqdm
+matplotlib
+ultralytics
+imageio
+ipython
+jupyter
