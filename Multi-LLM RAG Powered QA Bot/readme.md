@@ -1,4 +1,4 @@
-# RAG based Question Answering Chatbot
+# Multi-LLM RAG Powered QA Bot
 
 This project implements a Retrieval-Augmented Generation (RAG) chatbot using the Langchain framework and Azure OpenAI services. The chatbot can answer various questions based on context retrieved from a PDF document and allows users to explore previous interactions.
 
