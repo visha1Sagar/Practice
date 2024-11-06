@@ -22,13 +22,15 @@ Welcome to the **Visual Search App**! This project allows users to search for si
 ### 🛠️ Getting Started:
 1. Clone the repo:
    ```bash
-   git clone https://github.dev/visha1Sagar/Practice/visual-search-app.git
+   git clone https://github.com/visha1Sagar/Practice.git
    ```
-2. Install the required dependencies:
+2. Move to Visual Search App Folder
+
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the notebook:
+4. Run the notebook:
    ```bash
    jupyter notebook Visual_search.ipynb
    ```
