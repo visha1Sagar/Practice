@@ -24,7 +24,7 @@ Welcome to the **Visual Search App**! This project allows users to search for si
    ```bash
    git clone https://github.com/visha1Sagar/Practice.git
    ```
-2. Move to Visual Search App Folder
+2. Move to Visual Search App Folder, create .env file with HF_Token
 
 3. Install the required dependencies:
    ```bash
@@ -32,8 +32,11 @@ Welcome to the **Visual Search App**! This project allows users to search for si
    ```
 4. Run the notebook:
    ```bash
-   jupyter notebook Visual_search.ipynb
+   jupyter notebook main.ipynb
    ```
 
 ### 📸 Demo:
 Check out the app in action by running the notebook and uploading your own image!
+
+### Example:
+![alt text](image.png)
